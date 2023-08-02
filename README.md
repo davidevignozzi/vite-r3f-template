@@ -1,4 +1,4 @@
-# r3f-vite-template
+# vite-r3f-template
 
 A boilerplate to build R3F projects
 
